@@ -1,0 +1,16 @@
+{
+    "name": "OBS Web Remote",
+    "version": "v1.0.5",
+    "slug": "obsremote",
+    "description": "OBS remote  add-on based on https://github.com/Niek/obs-web",
+    "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
+    "startup": "application",
+    "panel_icon": "mdi:remote",
+    "ingress": true,
+    "ingress_port": 5000,
+    "ingress_stream": true,
+    "host_network": true,
+    "boot": "auto",
+    "options": {},
+    "schema": {}
+}
