@@ -1,6 +1,6 @@
 {
     "name": "OBS Tablet Remote",
-    "version": "v1.0.2",
+    "version": "v1.0.3",
     "slug": "obstabletremote",
     "description": "OBS tablet remote add-on based on https://github.com/t2t2/obs-tablet-remote",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
