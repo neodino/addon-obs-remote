@@ -7,7 +7,7 @@
     "startup": "application",
     "panel_icon": "mdi:remote",
     "ingress": true,
-    "ingress_port": 5000,
+    "ingress_port": 5001,
     "ingress_stream": true,
     "host_network": true,
     "boot": "auto",
