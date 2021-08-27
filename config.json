@@ -1,6 +1,6 @@
 {
     "name": "OBS Remote",
-    "version": "v1.0.4",
+    "version": "v1.0.5",
     "slug": "obsremote",
     "description": "OBS remote  add-on based on https://github.com/Niek/obs-web",
     "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
