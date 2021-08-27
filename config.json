@@ -9,6 +9,7 @@
     "ingress": true,
     "ingress_port": 5000,
     "ingress_stream": true,
+    "host_network": true,
     "boot": "auto",
     "options": {},
     "schema": {}
